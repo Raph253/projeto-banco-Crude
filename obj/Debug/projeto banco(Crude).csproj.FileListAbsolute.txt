@@ -1,0 +1,42 @@
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\projeto banco(Crude).exe.config
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\projeto banco(Crude).exe
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\projeto banco(Crude).pdb
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\Google.Protobuf.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\MySql.Data.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Buffers.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Memory.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\Zstandard.Net.dll
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\Google.Protobuf.pdb
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\Google.Protobuf.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\MySql.Data.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Buffers.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Memory.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csprojAssemblyReference.cache
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto_banco_Crude_.Form1.resources
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto_banco_Crude_.Properties.Resources.resources
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csproj.GenerateResource.cache
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csproj.CoreCompileInputs.cache
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csproj.CopyComplete
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto banco(Crude).exe
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto banco(Crude).pdb
+C:\Users\kayky\source\repos\projeto banco(Crude)\obj\Debug\projeto_banco_Crude_.Form2.resources
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csprojAssemblyReference.cache
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto_banco_Crude_.Form1.resources
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto_banco_Crude_.Form2.resources
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto_banco_Crude_.Properties.Resources.resources
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csproj.GenerateResource.cache
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto banco(Crude).csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto banco(Crude).exe
+C:\Users\user\Downloads\projeto banco(Crude)\obj\Debug\projeto banco(Crude).pdb
